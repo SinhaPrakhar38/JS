@@ -8,7 +8,7 @@ n = Math.floor(n)+1;
 if (n<50){
     alert("Your love score percent is "+n+ " % which is very low, sad to hear that");    
 }
-else if(n>50 && n<90){
+else if(n>=50 && n<=90){
     alert("Your love score percent is decent "+n+" %, have a great love life");
 }
 else{
