@@ -11,6 +11,6 @@ if (n<50){
 else if(n>=50 && n<=90){
     alert("Your love score percent is decent "+n+" %, have a great love life");
 }
-else{
+else
     alert("jabadiya jodi h ji");
 }
