@@ -1,7 +1,7 @@
 function bmiCalculator (weight, height) {
     var weight; 
     var height;
-    var bmi = weight/(height*heigh); 
+    var bmi = weight/(height*height); 
     var interpretation;
     if (bmi<18.5){
         interpretation = "Your BMI is " + bmi + " so you are underweight";
